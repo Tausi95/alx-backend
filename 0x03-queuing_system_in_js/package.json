@@ -8,7 +8,7 @@
         "check-lint": "lint [0-9]*.js",
         "test": "./node_modules/.bin/mocha --require @babel/register --exit",
         "dev": "nodemon --exec babel-node --presets @babel/preset-env",
-	"dev": "nodemon --exec babel-node --presets @babel/preset-env \"4-redis_advanced_op.js\""
+	"dev": "nodemon --exec babel-node --presets @babel/preset-env \"5-subscriber.js\""
     },
     "author": "",
     "license": "ISC",
