@@ -1,0 +1,10 @@
+# Ignore node modules directory
+node_modules/
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore Redis directory and tarball
+redis-6.0.10/
+redis-6.0.10.tar.gz
+
