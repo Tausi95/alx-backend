@@ -7,7 +7,7 @@
         "lint": "./node_modules/.bin/eslint",
         "check-lint": "lint [0-9]*.js",
         "test": "./node_modules/.bin/mocha --require @babel/register --exit",
-        "dev": "nodemon --exec babel-node --presets @babel/preset-env \"7-job_creator.js\""
+        "dev": "nodemon --exec babel-node --presets @babel/preset-env \"7-job_processor.js\""
     },
     "author": "",
     "license": "ISC",
